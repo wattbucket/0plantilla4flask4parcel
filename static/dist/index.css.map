@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,KACC,oBAAqB,CAClB,SAAU,CAAE,QAAS","file":"index.css","sourceRoot":"../src","sourcesContent":["body {\n\tfont: 16px sans-serif;\n    padding: 0; margin: 0;\n}\n"]}
