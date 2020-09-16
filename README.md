@@ -12,3 +12,9 @@ source ./.venv/bin/activate;
 pip install -r requirements.txt
 
 ```
+
+```py
+python app.py
+```
+
+http://0.0.0.0:5500/
