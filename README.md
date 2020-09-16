@@ -32,5 +32,6 @@ npm run build
 ```
 ### terminal py
 ```py
-zappa deploy
+// zappa init 
+zappa update
 ```
